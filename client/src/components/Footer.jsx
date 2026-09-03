@@ -8,7 +8,7 @@ const Footer = () => {
                 <div className="md:max-w-96">
                     <img alt="" class="h-11" src={assets.logo} />
                     <p className="mt-6 text-sm">
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+                        MovieMint is your one-stop destination for discovering and enjoying movies. Explore the latest releases, popular films, ratings, genres, and detailed movie information. Find your favorite movie, choose your showtime, and book your tickets—all in one place. 🍿🎟️
                     </p>
                     <div className="flex items-center gap-2 mt-4">
                         <img src={assets.googlePlay} alt="google play" className="h-9 w-auto  " />
@@ -35,7 +35,7 @@ const Footer = () => {
                 </div>
             </div>
             <p className="pt-4 text-center text-sm pb-5">
-                Copyright {new Date().getFullYear()} © <a href="https://prebuiltui.com">Point solution</a>. All Right Reserved.
+                Copyright {new Date().getFullYear()} © <a href="https://www.techstaunch.com/blogs/all-rights-reserved">Moviemint</a>. All Right Reserved.
             </p>
         </footer>
   )
