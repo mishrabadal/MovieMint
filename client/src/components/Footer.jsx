@@ -19,17 +19,18 @@ const Footer = () => {
                     <div>
                         <h2 className="font-semibold mb-5">Company</h2>
                         <ul className="text-sm space-y-2">
-                            <li><a href="#">Home</a></li>
-                            <li><a href="#">About us</a></li>
-                            <li><a href="#">Contact us</a></li>
-                            <li><a href="#">Privacy policy</a></li>
+                            <li><a href="/about.html">Home</a></li>
+                            <li><a href="/about.html">About us</a></li>
+                            <li><a href="/contact.html">Contact us</a></li>
+                            <li><a href="/privacy.html">Privacy policy</a></li>
                         </ul>
                     </div>
                     <div>
                         <h2 className="font-semibold mb-5">Get in touch</h2>
                         <div className="text-sm space-y-2">
                             <p>+91 9608519031</p>
-                            <p>pointgsolution@gmail.com</p>
+                            <p>support@moviemint.com
+</p>
                         </div>
                     </div>
                 </div>
